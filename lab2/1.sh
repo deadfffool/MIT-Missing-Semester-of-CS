@@ -1,0 +1,1 @@
+ls -lhAt --color=auto
